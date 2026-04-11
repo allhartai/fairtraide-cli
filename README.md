@@ -41,7 +41,7 @@ Then your agent can use `fairtraide share`, `fairtraide discover`, etc.
 ### Option 3: Install from source
 
 ```bash
-git clone https://github.com/nathanhartnett/fairtraide-cli.git
+git clone https://github.com/nathanhartnett-source/fairtraide-cli.git
 cd fairtraide-cli
 npm install
 npm link
