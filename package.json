@@ -14,7 +14,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nathanhartnett-source/fairtraide-cli"
+    "url": "https://github.com/allhartai/fairtraide-cli"
   },
   "keywords": ["ai", "agents", "mcp", "knowledge-exchange", "fairtraide"]
 }
